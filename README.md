@@ -19,8 +19,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="52" alt="java logo"  />
-  <p align="left">✨ Creating bugs since: 2018 👴<br>📚 I'm currently learning: Java, Spring, Python🚀<br>🎯 Goals: Learn Kotlin, Android Studio, Scala and Swift. Being one of the most professional mobile developers in the world🌎🌠<br>🎲 Fun facts: I invest in Stocks, bonds etc. 💰 I'm also passionate about AI and Data Science🦾</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="52" alt="java logo" style="float:left"  />
+</div>
+
+<div align="left">
+  <p align="left">⭐⭐⭐⭐⭐ </p>
 </div>
 
 ###
