@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="52" alt="java logo"   />
 </div>
 
-<div align="left">
+<div align="left" style="float:left">
   <p align="left">⭐⭐⭐⭐⭐ </p>
 </div>
 
