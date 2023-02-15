@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+
+<link rel="stylesheet" type="text/css" href="https://wcqueensky.github.io/style.css">
+
+<html>
+
 <h1 align="center">Hello there!👋 I'm Wojtek</h1>
 
 ###
@@ -18,58 +24,60 @@
 
 ###
 
-<div align="left">
+<div align="left" class="skill-sets">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="52" alt="java logo"   />
   <p align="left">⭐⭐★★★ </p>
 </div>
 
 ###
 
-<div align="left">
+<div align="left" class="skill-sets">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
   <p align="left">⭐⭐★★★ </p>
 </div>
 
 ###
 
-<div align="left">
+<div align="left" class="skill-sets">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
   <p align="left">⭐⭐★★★ </p>
 </div>
 
 ###
 
-<div align="left">
+<div align="left" class="skill-sets">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <p align="left">⭐⭐★★★ </p>
 </div>
 
 ###
 
-<div align="left">
+<div align="left" class="skill-sets">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <p align="left">⭐⭐★★★ </p>
 </div>
 
 ###
 
-<div align="left">
+<div align="left" class="skill-sets">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <p align="left">⭐⭐★★★ </p>
 </div>
 
 ###
 
-<div align="left">
+<div align="left" class="skill-sets">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <p align="left">⭐⭐★★★ </p>
 </div>
 
 ###
 
-<div align="left">
+<div align="left" class="skill-sets">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
   <p align="left">⭐⭐★★★ </p>
 </div>
 
 ###
+
+</html>
