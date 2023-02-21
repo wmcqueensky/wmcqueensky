@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">I'm an upcoming mobile developer with senior level Java skill-set. At the present moment searching for opportunities to learn in a professional environment.</p>
+<p align="center">I'm an upcoming mobile developer with future senior level Java skill-set. At the present moment searching for opportunities to learn in a professional environment.</p>
 
 ###
 
