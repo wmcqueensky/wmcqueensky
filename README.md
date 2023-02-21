@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<link rel="stylesheet" type="text/css" href="https://wcqueensky.github.io/style.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 
 <html>
 
