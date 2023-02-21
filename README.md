@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 
 <html>
-  
-<head>
-  <title> TO JEST TYTUL</title>
-</head>
-
 <body>
 <h1 align="center">Hello there!👋 I'm Wojtek</h1>
 
@@ -48,7 +43,7 @@
 
 ###
 
-<div align="left" style="float: left;" class="skill-sets">
+<div align="left" style="float: left;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <p align="left">⭐★★★★ </p>
 </div>
@@ -57,7 +52,7 @@
 
 <div align="left" class="skill-sets">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <p align="left">⭐⭐★★★ </p>
+  <p align="left">⭐★★★★ </p>
 </div>
 
 ###
