@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 
+<head>
 <link rel="stylesheet" type="text/css" href="style.css">
+</head>
 
 <html>
 
+<body>
 <h1 align="center">Hello there!👋 I'm Wojtek</h1>
 
 ###
@@ -79,5 +82,6 @@
 </div>
 
 ###
+  </body>
 
 </html>
