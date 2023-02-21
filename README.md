@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 
-<head>
-<link rel="stylesheet" type="text/css" href="style.css">
-</head>
-
 <html>
+  
+<head>
+  <title> TO JEST TYTUL</title>
+</head>
 
 <body>
 <h1 align="center">Hello there!👋 I'm Wojtek</h1>
