@@ -43,7 +43,7 @@
 
 ###
 
-<div align="left" style="float: left;">
+<div align="left" style="width: 100px; float: left;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <p align="left">⭐★★★★ </p>
 </div>
