@@ -48,9 +48,9 @@
 
 ###
 
-<div align="left" class="skill-sets">
+<div align="left" style="float: left;" class="skill-sets">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <p align="left">⭐⭐★★★ </p>
+  <p align="left">⭐★★★★ </p>
 </div>
 
 ###
@@ -64,21 +64,21 @@
 
 <div align="left" class="skill-sets">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <p align="left">⭐⭐★★★ </p>
+  <p align="left">⭐★★★★ </p>
 </div>
 
 ###
 
 <div align="left" class="skill-sets">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <p align="left">⭐⭐★★★ </p>
+  <p align="left">⭐★★★★ </p>
 </div>
 
 ###
 
 <div align="left" class="skill-sets">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <p align="left">⭐⭐★★★ </p>
+  <p align="left">⭐★★★★ </p>
 </div>
 
 ###
