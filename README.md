@@ -1,82 +1,16 @@
-<!DOCTYPE html>
-
-<html>
-<body>
 <h1 align="center">Hello there!👋 I'm Wojtek</h1>
 
-###
-
-<p align="center">I'm an upcoming mobile developer with future senior level Java skill-set. At the present moment searching for opportunities to learn in a professional environment.</p>
-
-###
-
-<h2 align="center">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since: 2018 👴<br>📚 I'm currently learning: Java, Spring, Python🚀<br>🎯 Goals: Learn Kotlin, Android Studio, Scala and Swift. Being one of the most professional mobile developers in the world🌎🌠<br>🎲 Fun facts: I invest in Stocks, bonds etc. 💰 I'm also passionate about AI and Data Science🦾</p>
-
-###
+✨ Creating bugs since: 2018 👴<br>📚 I'm currently learning: Java, Spring, Python🚀<br>🎯 Goals: Learn Kotlin, Android Studio, and Web Development. Being one of the most professional mobile developers in the world🌎🌠<br>🎲 Fun facts: I invest in Stocks, bonds etc. 💰 I'm also passionate about AI and Data Science🦾
 
 <h2 align="center">Skills</h2>
+<ul>
+  <li><strong>iOS Development:</strong> As a junior iOS developer, I have experience with Swift and can confidently create mobile applications for Apple devices.</li>
+  <li><strong>Mobile Development:</strong> I also have some knowledge of Kotlin, which is useful for Android app development, and I'm eager to explore Android Studio in the future.</li>
+  <li><strong>Java:</strong> Java is one of my strong suits, and I'm familiar with using it for a variety of small software development projects.</li>
+  <li><strong>Web Development:</strong> While I'm relatively new to web development, I'm familiar with the essential technologies, including HTML, CSS, and JavaScript. I'm excited to dive deeper into this field.</li>
+  <li><strong>C++:</strong> I'm comfortable working with C++, as I usually use it in my University.</li>
+  <li><strong>Version Control (Git):</strong> I have an intermediate level of proficiency in Git, which is essential for collaborative software development.</li>
+  <li><strong>Linux:</strong> I have a strong grasp of Linux fundamentals.</li>
+</ul>
 
-###
-
-<div align="left" class="skill-sets">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="52" alt="java logo"   />
-  <p align="left">⭐⭐★★★ </p>
-</div>
-
-###
-
-<div align="left" class="skill-sets">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
-  <p align="left">⭐⭐★★★ </p>
-</div>
-
-###
-
-<div align="left" class="skill-sets">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <p align="left">⭐⭐★★★ </p>
-</div>
-
-###
-
-<div align="left" style="width: 100px; float: left;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <p align="left">⭐★★★★ </p>
-</div>
-
-###
-
-<div align="left" class="skill-sets">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <p align="left">⭐★★★★ </p>
-</div>
-
-###
-
-<div align="left" class="skill-sets">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <p align="left">⭐★★★★ </p>
-</div>
-
-###
-
-<div align="left" class="skill-sets">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <p align="left">⭐★★★★ </p>
-</div>
-
-###
-
-<div align="left" class="skill-sets">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <p align="left">⭐★★★★ </p>
-</div>
-
-###
-  </body>
-
-</html>
+#### Feel free to reach out if you have any questions or if you'd like to collaborate on exciting projects!
