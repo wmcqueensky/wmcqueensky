@@ -9,7 +9,7 @@
   <li><strong>Java:</strong> Java is one of my strong suits, and I'm familiar with using it for a variety of small software development projects.</li>
   <li><strong>Web Development:</strong> While I'm relatively new to web development, I'm familiar with the essential technologies, including HTML, CSS, and JavaScript. I'm excited to dive deeper into this field.</li>
   <li><strong>C++:</strong> I'm comfortable working with C++, as I usually use it in my University.</li>
-  <li><strong>Version Control (Git):</strong> I have an intermediate level of proficiency in Git, which is essential for collaborative software development.</li>
+  <li><strong>Version Control (Git):</strong> I have an intermediate level of proficiency in Git</li>
   <li><strong>Linux:</strong> I have a strong grasp of Linux fundamentals.</li>
 </ul>
 
