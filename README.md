@@ -1,4 +1,4 @@
-<h1 align="center">Hello there!👋 I'm Wojtek</h1>
+<h1 align="center">Hello there!👋 I'm WojTech</h1>
 
 ✨ Creating bugs since: 2018 👴<br>📚 I'm currently learning: Java, Spring, Python🚀<br>🎯 Goals: Learn Kotlin, Android Studio, and Web Development. Being one of the most professional mobile developers in the world🌎🌠<br>🎲 Fun facts: I invest in Stocks, bonds etc. 💰 I'm also passionate about AI and Data Science🦾
 
